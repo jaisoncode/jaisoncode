@@ -3,7 +3,7 @@
 
 ## Conecte-se comigo 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaisoncode/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jaisoncode)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jaisonz)
 
 ## Aprendendo 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
